@@ -1,0 +1,11 @@
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\bin\Debug\FencingCalculator.exe.config
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\bin\Debug\FencingCalculator.exe
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\bin\Debug\FencingCalculator.pdb
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.csproj.AssemblyReference.cache
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.Form1.resources
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.Properties.Resources.resources
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.csproj.GenerateResource.cache
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.exe
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.pdb
+C:\Users\santh\source\repos\FencingCalculator\FencingCalculator\obj\Debug\FencingCalculator.AgeCalculatorForm.resources
