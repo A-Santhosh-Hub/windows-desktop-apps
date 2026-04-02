@@ -25,20 +25,6 @@ A simple desktop tool that calculates:
 
 ---
 
-### 2️⃣ Fencing Work Calculator
-
-A business utility application for estimating fencing work cost based on:
-
-* Stone size
-* Fence length
-* Price calculation logic
-
-**Technology Used**
-
-* C#
-* Windows Forms
-* Desktop UI Controls
-
 ---
 
 ## 🚀 Upcoming Applications
@@ -93,7 +79,7 @@ This repository is created to:
 Developed by **Santhosh**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/A-Santhosh-Hub
 
 ---
 
