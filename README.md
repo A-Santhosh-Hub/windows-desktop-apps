@@ -1,65 +1,53 @@
-# 🖥️ Windows Desktop Applications Collection
+# 🖥️ Windows Desktop Software Collection
 
-This repository contains a collection of native Windows desktop applications developed using **C# and .NET Windows Forms**.
+This repository contains a collection of **native Windows desktop applications** developed using **C# and .NET Windows Forms** in **Visual Studio**.
 
-These applications are designed as lightweight productivity tools, calculators, and business-support utilities that run offline as `.exe` software.
+Each project in this repository is a small utility software designed for learning, productivity, and real-world usage.
 
 ---
 
-## 📦 Applications Included
+## 📂 Projects Included
 
-### 1️⃣ Age Calculator
+### 🔢 Age Calculator
 
-A simple desktop tool that calculates:
+A simple Windows application that calculates:
 
-* Age in Years
-* Months
-* Days
+* Age in Years, Months, Days
 * Next Birthday Countdown
 
-**Technology Used**
+---
 
-* C#
-* .NET Framework
-* Windows Forms
+### 🔐 Password Generator Tool
+
+A desktop utility to:
+
+* Generate secure random passwords
+* Select password length
+* Copy password to clipboard
 
 ---
 
----
+## 🛠️ Technologies Used
 
-## 🚀 Upcoming Applications
-
-More desktop utilities will be added:
-
-* Student Grade Calculator
-* Firecracker Billing Software
-* Astrology Entry Tool
-* Business Estimate Tools
-* Productivity Utilities
+* Language: **C#**
+* Framework: **.NET Framework**
+* UI: **Windows Forms**
+* IDE: **Visual Studio**
+* Platform: **Windows Desktop (.exe)**
 
 ---
 
-## 🧑‍💻 Technologies Used
+## 📁 Project Structure
 
-| Category  | Technology         |
-| --------- | ------------------ |
-| Language  | C#                 |
-| Framework | .NET Framework     |
-| UI        | Windows Forms      |
-| IDE       | Visual Studio 2026 |
-| Platform  | Windows Desktop    |
-
----
-
-## 📂 Project Structure
-
-Each application is organized inside its own folder:
+Each application is stored in its own folder:
 
 ```
 /AgeCalculator
-/FencingCalculator
-/MoreAppsComingSoon
+/PasswordGenerator
+
 ```
+
+More applications will be added in future updates.
 
 ---
 
@@ -67,28 +55,16 @@ Each application is organized inside its own folder:
 
 This repository is created to:
 
-* Practice Windows desktop development
-* Build real-world business tools
-* Share reusable application logic
-* Maintain a collection of offline utilities
+* Practice Windows desktop application development
+* Build useful offline utility software
+* Maintain a collection of personal software projects
+* Share learning progress on GitHub
 
 ---
 
 ## 👨‍💻 Developer
 
-Developed by **Santhosh**
+**Santhosh**
 
-GitHub:
+GitHub Profile:
 https://github.com/A-Santhosh-Hub
-
----
-
-## ⭐ Future Improvements
-
-Planned upgrades:
-
-* Dark mode UI
-* Database integration
-* Export to PDF
-* Installer setup (.exe installer)
-* Modern UI enhancements
