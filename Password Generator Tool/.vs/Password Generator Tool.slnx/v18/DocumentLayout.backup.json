@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santh\\source\\repos\\Password Generator Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4AFC-CCB0-4756-B8C9-3C7A99653795}|Password Generator Tool\\Password Generator Tool.csproj|c:\\users\\santh\\source\\repos\\password generator tool\\password generator tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABE4AFC-CCB0-4756-B8C9-3C7A99653795}|Password Generator Tool\\Password Generator Tool.csproj|solutionrelative:password generator tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4AFC-CCB0-4756-B8C9-3C7A99653795}|Password Generator Tool\\Password Generator Tool.csproj|c:\\users\\santh\\source\\repos\\password generator tool\\password generator tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ABE4AFC-CCB0-4756-B8C9-3C7A99653795}|Password Generator Tool\\Password Generator Tool.csproj|solutionrelative:password generator tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Password Generator Tool\\Password Generator Tool\\Form1.cs",
+              "RelativeDocumentMoniker": "Password Generator Tool\\Form1.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Password Generator Tool\\Password Generator Tool\\Form1.cs*",
+              "RelativeToolTip": "Password Generator Tool\\Form1.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:58:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Password Generator Tool\\Password Generator Tool\\Form1.cs",
+              "RelativeDocumentMoniker": "Password Generator Tool\\Form1.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Password Generator Tool\\Password Generator Tool\\Form1.cs [Design]*",
+              "RelativeToolTip": "Password Generator Tool\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:40:56.178Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
