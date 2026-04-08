@@ -24,7 +24,9 @@ A desktop utility to:
 * Generate secure random passwords
 * Select password length
 * Copy password to clipboard
-
+<p align="center">
+  <img src="https://github.com/A-Santhosh-Hub/windows-desktop-apps/blob/main/Password%20Generator%20Tool/Password.png" width="400">
+</p>
 ---
 
 ## 🛠️ Technologies Used
